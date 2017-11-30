@@ -1,2 +1,0 @@
-# nytreact
-React application
